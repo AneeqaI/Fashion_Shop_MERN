@@ -1,7 +1,15 @@
 # Backend – Node.js & Express API
 
-This folder contains the **backend** of the full-stack MERN application developed as part of a 12-week university project.  
-The backend is responsible for handling server-side logic, API requests, and database interactions.
+This folder contains the **backend** of a full-stack MERN application developed as part of a 12-week university project.  
+The backend was completed **collaboratively**, with responsibility for server-side logic, API development, and database integration.
+
+---
+
+## 👥 Collaboration
+This backend was developed as part of a team project:
+- Backend development was handled collaboratively by a team member
+- Work included API design, database modelling, and server-side functionality
+- The backend integrates with a React-based frontend developed separately
 
 ---
 
@@ -28,7 +36,7 @@ server/
 
 ## 🚀 Features
 - RESTful API architecture
-- CRUD operations connected to MongoDB
+- CRUD operations with MongoDB
 - Data modelling using Mongoose schemas
 - Separation of concerns using routes, controllers, and models
 - Structured backend suitable for scalable applications
